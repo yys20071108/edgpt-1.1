@@ -1,0 +1,9 @@
+{
+    "id": "xy-customhead",
+    "name": "导航栏",
+    "version": "2.0.0",
+    "description": "自定义导航栏 支持App，h5，微信小程序，自定义文字，按钮，背景色，带搜索",
+    "keywords": [
+        "自定义导航栏"
+    ]
+}

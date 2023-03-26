@@ -1,0 +1,10 @@
+{
+	"dependencies": {
+		"thorui-uni": "^2.0.0"
+	},
+	"uni_modules": {
+		"encrypt": [
+			"uniCloud-aliyun/cloudfunctions/chat/index.js"
+		]
+	}
+}
